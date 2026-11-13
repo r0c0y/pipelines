@@ -1,6 +1,6 @@
 # Isolated merge queue integration harness
 
-Source: `9f5d35093e40e8861d08282c41e7bf368988c42e`. Target: `codex-mq-integration-rerun-20261113`. Controller: `codex/mq-integration-controller-rerun-20261113`.
+Source: `735c93b086159923b9413f1ac96cd2f0f44d4151`. Target: `codex-mq-integration-rerun-20261113`. Controller: `codex/mq-integration-controller-rerun-20261113`.
 
 This is disposable test tooling, not production configuration. It never enables
 master/main admission, modifies their protections, changes repository auto-merge,
