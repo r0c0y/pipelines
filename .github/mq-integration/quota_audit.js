@@ -2,7 +2,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const BASELINE_SHA = '57147c5c22e58014f71e0181ced4cc07f82e1773';
-const FIXED_SHA = '82693a708c36867e3ee3d3846112889153d2bed1';
+const FIXED_SHA = '9f5d35093e40e8861d08282c41e7bf368988c42e';
 const CONTROL = 'codex/mq-integration-controller-rerun-20261113';
 const EVIDENCE = path.join(process.env.RUNNER_TEMP || '/tmp', 'mq-quota-audit-evidence');
 
